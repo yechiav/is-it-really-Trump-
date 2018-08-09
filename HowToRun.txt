@@ -1,0 +1,53 @@
+READ me
+
+how to use the Py file..
+
+
+pakaccges used:
+	import seaborn as sns
+	import time
+	import string
+	from sklearn.feature_selection import RFE
+	from sklearn.linear_model import LogisticRegression
+	from sklearn.model_selection import train_test_split
+	from sklearn.model_selection import GridSearchCV
+	from sklearn.metrics import classification_report
+	from sklearn.svm import SVC
+	from sklearn.preprocessing import MinMaxScaler
+	from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+	from sklearn.decomposition import NMF, LatentDirichletAllocation
+	import pandas as pd
+	import numpy as np
+	from sklearn.cluster import KMeans
+	from sklearn.cluster import DBSCAN
+	import timeit
+	from datetime import datetime
+	from sklearn import metrics
+	import matplotlib.pyplot as plt
+	import matplotlib
+	from nltk.corpus import stopwords
+	from nltk.stem.porter import *
+	from sklearn.manifold import TSNE
+	import csv
+	from numpy  import vstack,array
+	from wordcloud import WordCloud
+	from scipy.sparse import csr_matrix
+
+	comment: for NLTK allso english corpus was downloaded
+
+
+configuration: 
+	one file to run 3 configuration
+	which task to run? taskA or B
+	in Task 2, which dataset to load
+
+	all configuration in the global variables: 
+	Task, Task2_b_datatoload
+
+	printing flags for some of the plots and grpash used
+	can be found in the contoroled in the following tags
+
+	Print_TSNE = False
+	Print_Files = False
+	Print_heatmap = False
+	print_CloudWord = False
