@@ -1,6 +1,8 @@
 # is it really Trump??
 Trump tweets detection and other NLP goodies
 
+![alt text](https://github.com/yechiav/is-it-really-Trump-/blob/master/T.png)
+
 
 ## Taks:
 ### detection of Real trump user by tweets content
