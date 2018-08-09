@@ -11,6 +11,16 @@ the dataset is couple of thousands tweets from Trump’s account posted between 
 2015 and mid 2017.
 #### process:
 
+![alt text](https://github.com/yechiav/is-it-really-Trump-/blob/master/Process.JPG)
+
+before the resutls, it can be seen quiet easily that even with only looking at the time of the tweets, its pretty clear who is the real trump...
+![alt text](https://github.com/yechiav/is-it-really-Trump-/blob/master/Time.png)
+
+i am expecting good results
+
+### restuls
+and they are, all models and configuration yileded very promising resutls
+![alt text](https://github.com/yechiav/is-it-really-Trump-/blob/master/results.JPG)
 
 
 ### prerequisites
