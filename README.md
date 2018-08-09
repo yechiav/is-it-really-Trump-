@@ -6,7 +6,8 @@ Trump tweets detection and other NLP goodies
 Photo on [Foter.com](https://foter.com/)
 
 see deatiled report:
-![report](https://github.com/yechiav/is-it-really-Trump-/blob/master/Iis_It_Real_Trump-report.pdf)
+
+[Report](https://github.com/yechiav/is-it-really-Trump-/blob/master/Iis_It_Real_Trump-report.pdf "Report")
 
 ## Taks:
 ### detection of Real trump user by tweets content
