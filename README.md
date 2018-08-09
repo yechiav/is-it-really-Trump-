@@ -12,6 +12,7 @@ the dataset is couple of thousands tweets from Trump’s account posted between 
 #### process:
 
 
+
 ### prerequisites
 - seaborn 
 - Pandas
