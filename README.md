@@ -1,2 +1,18 @@
 # is it really Trump??
-trump tweets detection and other NLP goodies
+Trump tweets detection and other NLP goodies
+
+
+## Taks:
+### detection of Real trump user by tweets content
+in this task we proved that in simple NLP tools it is possible to detect Trump by his tweets contant, 
+the dataset is couple of thousands tweets from Trump’s account posted between early
+2015 and mid 2017.
+#### process:
+
+
+### prerequisites
+- seaborn 
+- Pandas
+- Numpy
+- WordCloud
+- nltk
